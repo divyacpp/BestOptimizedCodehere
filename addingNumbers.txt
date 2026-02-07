@@ -1,0 +1,13 @@
+include<iostream>
+using namespace std;
+
+int main(){
+
+int a=10, b=40, sum=0;
+
+sum= a+b;
+
+cout<<"Required Sum is"<<sum<<endl;
+
+return 0;
+}
